@@ -46,7 +46,7 @@ You can also add multiple listing and it would look something like this
 No known bugs
 
 # Support
-Feel free to report any issues you have in the GitHub [Issues](https://github.com/nerohiro/google-key/issues)
+Feel free to report any issues you have in the GitHub [Issues](https://github.com/Kemana-mana/google-key/issues)
 
-if you wish to add something to it, do a pull request on the github [Pull Requests](https://github.com/nerohiro/google-key/pulls)
+if you wish to add something to it, do a pull request on the github [Pull Requests](https://github.com/Kemana-mana/google-key/pulls)
 
